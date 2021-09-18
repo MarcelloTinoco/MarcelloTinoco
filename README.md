@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcelloTinoco. Im a Senior Software Developer and Architect with 26 years old experience on constructing and developing software for eCommerce, Government, Health e so on.
+- 👋 Hi, I’m @MarcelloTinoco. Im a Senior Software Developer and Software Architect with 26 years old experience on constructing and developing software for eCommerce, Government, Health e so on.
 With experiences on Java, Microsservices, Spring, Spring Boot, Spring Microservices , RDBMS ( Oracle, PostgreSQL ), Agile Programming and Scrum
 - 👀 I’m interested in programming languages like Java, JavaScript, Dart, Flutter.So Agile, Containerization ( Docker, K8S), Microsservices, Cloud Computing and NoSQL databases
 - 🌱 I’m currently learning Cloud Plataforms, OpenAPI, MongoDB, NodeJS, Dart, Flutter
